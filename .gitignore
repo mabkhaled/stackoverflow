@@ -2,8 +2,8 @@
 node_modules
 
 # config
-config.js
-*.env
+
+
 
 # ----
 .DS_Store
